@@ -1,4 +1,6 @@
 specVersion: 0.0.2
+description: amy graph for arbi
+repository: https://github.com/syuukawa/amy_subgraph_1
 schema:
   file: ./schema.graphql
 dataSources:
