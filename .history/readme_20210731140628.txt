@@ -1,0 +1,5 @@
+
+graph auth https://api.thegraph.com/deploy/ <ACCESS_TOKEN>
+
+
+graph auth  --studio be409d2f3ea507ffe0e63ebed6f036ab

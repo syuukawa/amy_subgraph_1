@@ -1,0 +1,2 @@
+
+graph auth https://api.thegraph.com/deploy/ <ACCESS_TOKEN>
